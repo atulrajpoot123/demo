@@ -1,4 +1,4 @@
 # demo
-this is my first git repository
-<br>
-auther - atul rajpoot
+
+Tis is my first git repository.
+Auther - Atul Rajpoot
